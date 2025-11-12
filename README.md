@@ -22,3 +22,7 @@ Key analyses performed:
 - Sales performance before vs. after COVID  
 - Recovery rate of models post-2021  
 - Fuel-type sales comparison and percentage change 
+
+---
+
+[View Interactive Dashbaord on Tableau Public](https://public.tableau.com/app/profile/jiya.bhandari/viz/bmwsalesdashboard_17628836375930/Dashboard1)
